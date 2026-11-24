@@ -1,0 +1,11 @@
+code,name,home_ground,spin,pace,power,anchor
+CSK,Chennai Super Kings,MA Chidambaram Stadium (Chepauk),2,-0.5,-0.5,1.5
+MI,Mumbai Indians,Wankhede Stadium,-0.5,1.5,1.5,0
+RCB,Royal Challengers Bengaluru,M. Chinnaswamy Stadium,-0.5,0.5,2,-0.5
+KKR,Kolkata Knight Riders,Eden Gardens,1.5,0,1,0
+SRH,Sunrisers Hyderabad,Rajiv Gandhi Intl. Stadium,0,0.5,2,-0.5
+RR,Rajasthan Royals,Sawai Mansingh Stadium,1.5,0,-0.5,1.5
+DC,Delhi Capitals,Arun Jaitley Stadium,1,0,1.5,0
+PBKS,Punjab Kings,"New PCA Stadium, Mullanpur",-0.5,2,0.5,0.5
+LSG,Lucknow Super Giants,"Ekana Stadium, Lucknow",1.5,0.5,-0.5,1.5
+GT,Gujarat Titans,Narendra Modi Stadium,0,1.5,1,0.5
